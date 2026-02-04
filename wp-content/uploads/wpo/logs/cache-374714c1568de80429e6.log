@@ -1,0 +1,232 @@
+[2026-01-23 07:34:11 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-01-23 08:47:39 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-23 08:47:39 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-23 08:47:40 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-23 08:47:40 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-23 08:50:44 : INFO] - Cache for URL: https://www.depannagepcgard.fr/faq/ has been purged, triggered by action: save_post 
+[2026-01-23 08:50:44 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "FAQ" has been purged, triggered by action: save_post 
+[2026-01-23 08:50:45 : INFO] - Cache for URL: https://www.depannagepcgard.fr/faq/ has been purged, triggered by action: save_post 
+[2026-01-23 08:50:45 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "FAQ" has been purged, triggered by action: save_post 
+[2026-01-23 08:51:14 : INFO] - Cache for URL: https://www.depannagepcgard.fr/faq/ has been purged, triggered by action: save_post 
+[2026-01-23 08:51:14 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "FAQ" has been purged, triggered by action: save_post 
+[2026-01-23 08:51:15 : INFO] - Cache for URL: https://www.depannagepcgard.fr/faq/ has been purged, triggered by action: save_post 
+[2026-01-23 08:51:15 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "FAQ" has been purged, triggered by action: save_post 
+[2026-01-23 08:52:08 : INFO] - Cache for URL: https://www.depannagepcgard.fr/faq/ has been purged, triggered by action: save_post 
+[2026-01-23 08:52:08 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "FAQ" has been purged, triggered by action: save_post 
+[2026-01-23 08:52:09 : INFO] - Cache for URL: https://www.depannagepcgard.fr/faq/ has been purged, triggered by action: save_post 
+[2026-01-23 08:52:09 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "FAQ" has been purged, triggered by action: save_post 
+[2026-01-23 08:52:41 : INFO] - Cache for URL: https://www.depannagepcgard.fr/montage-pc/ has been purged, triggered by action: save_post 
+[2026-01-23 08:52:41 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Montage PC Réalisé" has been purged, triggered by action: save_post 
+[2026-01-23 08:52:42 : INFO] - Cache for URL: https://www.depannagepcgard.fr/montage-pc/ has been purged, triggered by action: save_post 
+[2026-01-23 08:52:42 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Montage PC Réalisé" has been purged, triggered by action: save_post 
+[2026-01-23 08:52:54 : INFO] - Cache for URL: https://www.depannagepcgard.fr/faq/ has been purged, triggered by action: save_post 
+[2026-01-23 08:52:54 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "FAQ" has been purged, triggered by action: save_post 
+[2026-01-23 08:52:55 : INFO] - Cache for URL: https://www.depannagepcgard.fr/faq/ has been purged, triggered by action: save_post 
+[2026-01-23 08:52:55 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "FAQ" has been purged, triggered by action: save_post 
+[2026-01-23 08:53:11 : INFO] - Cache for URL: https://www.depannagepcgard.fr/faq/ has been purged, triggered by action: save_post 
+[2026-01-23 08:53:11 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "FAQ" has been purged, triggered by action: save_post 
+[2026-01-23 08:53:12 : INFO] - Cache for URL: https://www.depannagepcgard.fr/faq/ has been purged, triggered by action: save_post 
+[2026-01-23 08:53:12 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "FAQ" has been purged, triggered by action: save_post 
+[2026-01-23 11:13:55 : INFO] - Cache for URL: https://www.depannagepcgard.fr/configurateur-pc/ has been purged, triggered by action: save_post 
+[2026-01-23 11:13:55 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "CONFIGURATEUR PC" has been purged, triggered by action: save_post 
+[2026-01-23 11:13:56 : INFO] - Cache for URL: https://www.depannagepcgard.fr/configurateur-pc/ has been purged, triggered by action: save_post 
+[2026-01-23 11:13:56 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "CONFIGURATEUR PC" has been purged, triggered by action: save_post 
+[2026-01-23 11:54:31 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-23 11:54:31 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-23 11:54:31 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-23 11:54:31 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-23 11:59:16 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-23 11:59:16 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-23 11:59:17 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-23 11:59:17 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-23 12:00:25 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-23 12:00:25 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-23 12:00:26 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-23 12:00:26 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-23 12:01:47 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-23 12:01:47 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-23 12:01:48 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-23 12:01:48 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-23 12:08:42 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-23 12:08:42 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-23 12:08:42 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-23 12:08:42 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-23 12:08:47 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-23 12:08:47 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-23 12:08:47 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-23 12:08:47 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-23 12:13:40 : INFO] - Cache for URL: https://www.depannagepcgard.fr/montage-pc/ has been purged, triggered by action: save_post 
+[2026-01-23 12:13:40 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Montage PC Réalisé" has been purged, triggered by action: save_post 
+[2026-01-23 12:13:41 : INFO] - Cache for URL: https://www.depannagepcgard.fr/montage-pc/ has been purged, triggered by action: save_post 
+[2026-01-23 12:13:41 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Montage PC Réalisé" has been purged, triggered by action: save_post 
+[2026-01-23 12:16:06 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-23 12:16:06 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-23 12:16:07 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-23 12:16:07 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-23 12:17:12 : INFO] - Cache for URL: https://www.depannagepcgard.fr/configurateur-pc/ has been purged, triggered by action: save_post 
+[2026-01-23 12:17:12 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "CONFIGURATEUR PC" has been purged, triggered by action: save_post 
+[2026-01-23 12:17:12 : INFO] - Cache for URL: https://www.depannagepcgard.fr/configurateur-pc/ has been purged, triggered by action: save_post 
+[2026-01-23 12:17:12 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "CONFIGURATEUR PC" has been purged, triggered by action: save_post 
+[2026-01-23 12:23:03 : INFO] - Cache for URL: https://www.depannagepcgard.fr/configurateur-pc/ has been purged, triggered by action: save_post 
+[2026-01-23 12:23:03 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "CONFIGURATEUR PC" has been purged, triggered by action: save_post 
+[2026-01-23 12:23:03 : INFO] - Cache for URL: https://www.depannagepcgard.fr/configurateur-pc/ has been purged, triggered by action: save_post 
+[2026-01-23 12:23:03 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "CONFIGURATEUR PC" has been purged, triggered by action: save_post 
+[2026-01-23 12:51:55 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-01-23 13:00:44 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-01-23 13:01:28 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-01-23 13:02:16 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-01-23 14:54:22 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-23 14:54:22 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-23 14:54:23 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-23 14:54:23 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-24 06:23:55 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-01-24 06:45:27 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2026-01-24 07:11:23 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-24 07:11:23 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-24 07:11:23 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-24 07:11:23 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-24 07:15:49 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-24 07:15:49 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-24 07:15:49 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-24 07:15:49 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-24 07:28:24 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-24 07:28:24 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-24 07:28:25 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-24 07:28:25 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-24 07:29:26 : INFO] - Cache for URL: https://www.depannagepcgard.fr/configurateur-pc/ has been purged, triggered by action: save_post 
+[2026-01-24 07:29:26 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "CONFIGURATEUR PC" has been purged, triggered by action: save_post 
+[2026-01-24 07:29:26 : INFO] - Cache for URL: https://www.depannagepcgard.fr/configurateur-pc/ has been purged, triggered by action: save_post 
+[2026-01-24 07:29:26 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "CONFIGURATEUR PC" has been purged, triggered by action: save_post 
+[2026-01-24 07:29:50 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-24 07:29:50 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-24 07:29:51 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-24 07:29:51 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:25:36 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:25:36 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:25:36 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:25:36 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:30:05 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:30:05 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:30:05 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:30:05 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:30:54 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:30:54 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:30:55 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:30:55 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:31:47 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:31:47 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:31:48 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:31:48 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:32:28 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:32:28 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:32:29 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:32:29 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:36:07 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:36:07 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:36:07 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:36:07 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:38:12 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:38:12 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:38:12 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:38:12 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:38:37 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:38:37 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:38:37 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:38:37 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:41:48 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:41:48 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:41:49 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:41:49 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:43:10 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:43:10 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:43:11 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:43:11 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:47:16 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:47:16 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:47:16 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:47:16 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:48:53 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:48:53 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:48:53 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:48:53 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:50:39 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:50:39 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:50:40 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:50:40 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:50:51 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:50:51 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:50:51 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:50:51 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:51:00 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:51:00 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:51:01 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:51:01 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:51:58 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:51:58 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:51:59 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:51:59 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:52:27 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:52:27 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:52:28 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:52:28 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:52:39 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:52:39 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:52:39 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:52:39 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:53:29 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:53:29 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:53:30 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:53:30 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:53:47 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:53:47 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 06:53:48 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-01-29 06:53:48 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-01-29 09:16:35 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-29 09:16:35 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-29 09:16:35 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-29 09:16:35 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-30 08:23:13 : INFO] - Cache for URL: https://www.depannagepcgard.fr/faq/ has been purged, triggered by action: save_post 
+[2026-01-30 08:23:13 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "FAQ" has been purged, triggered by action: save_post 
+[2026-01-30 08:23:14 : INFO] - Cache for URL: https://www.depannagepcgard.fr/faq/ has been purged, triggered by action: save_post 
+[2026-01-30 08:23:14 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "FAQ" has been purged, triggered by action: save_post 
+[2026-01-30 08:23:33 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-30 08:23:33 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-01-30 08:23:33 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-01-30 08:23:33 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-02-01 19:01:01 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-02-01 19:01:01 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-02-01 19:01:01 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-02-01 19:01:01 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-02-01 19:02:46 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-02-01 19:02:46 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-02-01 19:02:47 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-02-01 19:02:47 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-02-02 08:45:43 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-02-02 08:45:43 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-02-02 08:45:44 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-02-02 08:45:44 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-02-03 06:38:27 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-02-03 06:38:27 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-02-03 06:38:28 : INFO] - Cache for URL: https://www.depannagepcgard.fr/ has been purged, triggered by action: save_post 
+[2026-02-03 06:38:28 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Accueil" has been purged, triggered by action: save_post 
+[2026-02-03 06:48:57 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-02-03 06:48:57 : INFO] - Cache for URL: https://www.depannagepcgard.fr/montage-pc-gaming-sous-1000e-a-nimes-guide-complet-2026/ has been purged, triggered by action: save_post 
+[2026-02-03 06:48:57 : INFO] - Cache for all archives page associated with post_type: post and Title: "Montage PC Gaming sous 1000€ à Nîmes – Guide complet 2026" have been purged, triggered by action: save_post 
+[2026-02-03 06:48:57 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: post and Title: "Montage PC Gaming sous 1000€ à Nîmes – Guide complet 2026" has been purged, triggered by action: save_post 
+[2026-02-03 06:48:57 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-02-03 06:48:57 : INFO] - Cache for URL: https://www.depannagepcgard.fr/montage-pc-gaming-sous-1000e-a-nimes-guide-complet-2026/ has been purged, triggered by action: save_post 
+[2026-02-03 06:48:57 : INFO] - Cache for all archives page associated with post_type: post and Title: "Montage PC Gaming sous 1000€ à Nîmes – Guide complet 2026" have been purged, triggered by action: save_post 
+[2026-02-03 06:48:57 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: post and Title: "Montage PC Gaming sous 1000€ à Nîmes – Guide complet 2026" has been purged, triggered by action: save_post 
+[2026-02-03 06:52:17 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-02-03 06:52:17 : INFO] - Cache for URL: https://www.depannagepcgard.fr/montage-pc-gaming-sous-1000e-a-nimes-guide-complet-2026/ has been purged, triggered by action: save_post 
+[2026-02-03 06:52:17 : INFO] - Cache for all archives page associated with post_type: post and Title: "Montage PC Gaming sous 1000€ à Nîmes – Guide complet 2026" have been purged, triggered by action: save_post 
+[2026-02-03 06:52:17 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: post and Title: "Montage PC Gaming sous 1000€ à Nîmes – Guide complet 2026" has been purged, triggered by action: save_post 
+[2026-02-03 06:52:17 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-02-03 06:52:17 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2026-02-03 06:52:17 : INFO] - Cache for URL: https://www.depannagepcgard.fr/montage-pc-gaming-sous-1000e-a-nimes-guide-complet-2026/ has been purged, triggered by action: save_post 
+[2026-02-03 06:52:17 : INFO] - Cache for all archives page associated with post_type: post and Title: "Montage PC Gaming sous 1000€ à Nîmes – Guide complet 2026" have been purged, triggered by action: save_post 
+[2026-02-03 06:52:17 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: post and Title: "Montage PC Gaming sous 1000€ à Nîmes – Guide complet 2026" has been purged, triggered by action: save_post 
+[2026-02-03 12:04:37 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-02-03 12:04:37 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
+[2026-02-03 12:04:38 : INFO] - Cache for URL: https://www.depannagepcgard.fr/creation-de-site-web/ has been purged, triggered by action: save_post 
+[2026-02-03 12:04:38 : INFO] - Cache for author page URL: https://www.depannagepcgard.fr/author/admin9108/ associated with post_type: page and Title: "Création de site web" has been purged, triggered by action: save_post 
