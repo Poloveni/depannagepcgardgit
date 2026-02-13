@@ -407,96 +407,6 @@ console.log( 'app js jQuery:', htCtcJq );
 
 		};
 
-		// Build the payload for other scripts (pro.js, date.js, custom code, etc.)
-		function buildHtCtcInitDetail () {
-
-			// ---------------------------------------------
-			// CONFIG (raw values)
-			// ---------------------------------------------
-			const config = {
-				// version: '4.34',
-				ctc: ctc,                // main config from wp_localize_script
-				ctc_values: ctc_values, // secondary config
-				is_mobile: is_mobile,
-				url: url,
-				post_title: post_title,
-
-				// storage: ht_ctc_storage,
-			};
-
-			// ---------------------------------------------
-			// API (all most of functions)
-			// ---------------------------------------------
-			const api = {
-
-				// --------------------------
-				// Storage API
-				// --------------------------
-				storage: {
-					get: ctc_getItem,
-					set: ctc_setItem,
-					raw: ht_ctc_storage,
-				},
-
-				// --------------------------
-				// API (all most of functions)
-				// --------------------------
-				ui: ui,             // ← unified UI system
-
-				// --------------------------
-				// Greetings system
-				// --------------------------
-				greetings: {
-					open: greetings_open,
-					close: greetings_close,
-					closeAfterClick: greetings_close_500,
-					initListeners: greetings,
-					display: greetings_display,
-				},
-
-				// --------------------------
-				// Notifications system
-				// --------------------------
-				notifications: {
-					display: display_notifications,
-					stop: stop_notification_badge,
-				},
-
-				// --------------------------
-				// Chat functions
-				// --------------------------
-				chat: {
-					openLink: ht_ctc_link,
-					displaySettings: display_settings,
-				},
-
-				// --------------------------
-				// Utility functions
-				// --------------------------
-				utils: {
-					isSafeObjectKey,
-					getSafeProperty,
-					setSafeProperty,
-
-					// timeOnWp: time_on_wordpress,
-					// applyVariables: apply_variables,
-				},
-			};
-
-			// // an event listener so that other scripts can access config + api together and update if needed
-			// this.dispatchEvent(new CustomEvent('ht_ctc_event_build_config', {
-			// 	detail: {
-			// 		config,
-			// 		api,
-			// 	}
-			// }));
-
-			return {
-				config,
-				api,
-			};
-		}
-
 		// Initialize plugin configuration containers
 
 		// Step 1: Load config from global variables if already defined (preferred and most common)
@@ -701,6 +611,96 @@ console.log( 'app js jQuery:', htCtcJq );
 		// 		console.warn('⛔ Async/fetch not supported. Skipping fetch calls.');
 		// 	}
 		// }
+
+		// Build the payload for other scripts (pro.js, date.js, custom code, etc.)
+		function buildHtCtcInitDetail () {
+
+			// ---------------------------------------------
+			// CONFIG (raw values)
+			// ---------------------------------------------
+			const config = {
+				// version: '4.34',
+				ctc: ctc,                // main config from wp_localize_script
+				ctc_values: ctc_values, // secondary config
+				is_mobile: is_mobile,
+				url: url,
+				post_title: post_title,
+
+				// storage: ht_ctc_storage,
+			};
+
+			// ---------------------------------------------
+			// API (all most of functions)
+			// ---------------------------------------------
+			const api = {
+
+				// --------------------------
+				// Storage API
+				// --------------------------
+				storage: {
+					get: ctc_getItem,
+					set: ctc_setItem,
+					raw: ht_ctc_storage,
+				},
+
+				// --------------------------
+				// API (all most of functions)
+				// --------------------------
+				ui: ui,             // ← unified UI system
+
+				// --------------------------
+				// Greetings system
+				// --------------------------
+				greetings: {
+					open: greetings_open,
+					close: greetings_close,
+					closeAfterClick: greetings_close_500,
+					initListeners: greetings,
+					display: greetings_display,
+				},
+
+				// --------------------------
+				// Notifications system
+				// --------------------------
+				notifications: {
+					display: display_notifications,
+					stop: stop_notification_badge,
+				},
+
+				// --------------------------
+				// Chat functions
+				// --------------------------
+				chat: {
+					openLink: ht_ctc_link,
+					displaySettings: display_settings,
+				},
+
+				// --------------------------
+				// Utility functions
+				// --------------------------
+				utils: {
+					isSafeObjectKey,
+					getSafeProperty,
+					setSafeProperty,
+
+					// timeOnWp: time_on_wordpress,
+					// applyVariables: apply_variables,
+				},
+			};
+
+			// // an event listener so that other scripts can access config + api together and update if needed
+			// this.dispatchEvent(new CustomEvent('ht_ctc_event_build_config', {
+			// 	detail: {
+			// 		config,
+			// 		api,
+			// 	}
+			// }));
+
+			return {
+				config,
+				api,
+			};
+		}
 
 		// Initialize the plugin after settings are loaded
 		function start () {
@@ -2100,7 +2100,7 @@ console.log( 'app js jQuery:', htCtcJq );
 		// webhooks
 		function hook ( number ) {
 			console.log( 'hook' );
-			console.log( 'g_hook_v: ' + g_hook_v );
+			console.log( 'g_hook_v, typeof:', g_hook_v, typeof g_hook_v );
 
 			var h_url = ctc && ctc.hook_url;
 
@@ -2109,39 +2109,18 @@ console.log( 'app js jQuery:', htCtcJq );
 				return;
 			}
 
-			let hook_values = {};
-			const headers = {};
-
-			// Check if the hook values are defined
-			if ( ctc.hook_v ) {
-				hook_values = ( typeof g_hook_v !== 'undefined' ) ? g_hook_v : ctc.hook_v;
-
-				// var hook_values = ctc.hook_v;
-
-				console.log( typeof hook_values );
-				console.log( hook_values );
-
-				if ( ! Array.isArray( hook_values ) ) {
-					console.error( 'hook_v must be an array!', hook_values );
-					return;
-				}
+			// Reset ctc.hook_v to the pair-value object derived from the original array
+			// This ensures a fresh start for each click (avoiding processed values carrying over incorrectly)
+			if ( Array.isArray( g_hook_v ) ) {
 
 				const pair_values = {};
-				let i = 1;
 
-				// Loop through the hook values and assign them to pair_values
-				hook_values.forEach( ( val ) => {
-					console.log( i );
-					console.log( val );
-
-					// pair_values[ 'value' + i ] = val;
-					setSafeProperty( pair_values, 'value' + i, val );
-					i++;
+				g_hook_v.forEach( ( val, index ) => {
+					// pair_values[ 'value' + (index + 1) ] = val;
+					setSafeProperty( pair_values, 'value' + ( index + 1 ), val );
 				} );
 
-				console.log( typeof pair_values );
-				console.log( pair_values );
-
+				// Update ctc.hook_v so it's available in the event
 				ctc.hook_v = pair_values;
 			}
 
@@ -2150,24 +2129,47 @@ console.log( 'app js jQuery:', htCtcJq );
 				{ detail: { ctc, number } },
 			) );
 
-			hook_values = ctc.hook_v;
+			// Use the values from ctc (which may have been modified by early/using eventlistners)
+			// var hook_values = ctc.hook_v || {};
+			var hook_values = ( ctc.hook_v && typeof ctc.hook_v === 'object' ) ? ctc.hook_v : {};
 
-			console.log( h_url );
-			console.log( hook_values );
+			// Update URL might be modified by eventlistners
+			if ( ctc.hook_url ) {
+				h_url = ctc.hook_url;
+			}
+
+			console.log( 'Webhook URL:', h_url );
+			console.log( 'Webhook Values:', hook_values );
 
 			// Format data for webhook
 			let data;
+			const contentType = 'application/x-www-form-urlencoded;charset=UTF-8';
 
-			if ( ctc.webhook_format === 'json' ) {
-				console.log( 'main hook: json' );
-				headers[ 'Content-Type' ] = 'application/json';
-				data = JSON.stringify( hook_values );
+			// To solve CORS error: Use form-urlencoded even for 'json' format
+			// This makes it a "simple request" and avoids the preflight check.
+			if ( 'json' === ctc.webhook_format ) {
+				console.log( 'main hook: json (sending as form-urlencoded to match jQuery/avoid preflight)' );
+
+				// Convert to search params
+				var params = new URLSearchParams();
+				Object.keys( hook_values )
+					.forEach( ( key ) => {
+						// params.append( key, hook_values[ key ] );
+						// hook_values[ key ]
+						const hookVal = getSafeProperty( hook_values, key );
+
+						// Convert objects/arrays to string if needed
+						params.append( key, ( typeof hookVal === 'object' ) ? JSON.stringify( hookVal ) : hookVal );
+					} );
+
+				// todo: test well..
+				// data = params;
+				data = params.toString();
 			} else {
-				console.log( 'main hook: string (URL encoded)' );
+				// Default fallback
+				console.log( 'main hook: string' );
 
-				// headers[ 'Content-Type' ] = 'text/plain';
-				// data = JSON.stringify( hook_values );
-				headers[ 'Content-Type' ] = 'application/x-www-form-urlencoded;charset=UTF-8';
+				// data = JSON.stringify(hook_values);
 				data = new URLSearchParams( hook_values )
 					.toString();
 			}
@@ -2180,7 +2182,9 @@ console.log( 'app js jQuery:', htCtcJq );
 				method: 'POST',
 
 				// mode: 'no-cors',
-				headers: headers,
+				headers: {
+					'Content-Type': contentType,
+				},
 				body: data,
 			} )
 				.then( response => {
@@ -2191,7 +2195,7 @@ console.log( 'app js jQuery:', htCtcJq );
 				} );
 		}
 
-	};
+	}
 
 	function onReady () {
 		if ( document.readyState !== 'loading' ) {
